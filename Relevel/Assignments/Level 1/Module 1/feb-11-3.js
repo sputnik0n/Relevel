@@ -1,0 +1,1 @@
+const input = prompt('How are you', 'good');
